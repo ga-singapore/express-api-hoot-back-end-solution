@@ -2,7 +2,7 @@
 
 ## About
 
-This repo contains solution code for the [Express API - Hoot Back-End](https://git.generalassemb.ly/modular-curriculum-all-courses/express-api-hoot.git) lecture.
+This repo contains solution code for the [Express API - Hoot Back-End](https://github.com/ga-curriculum/express-api-hoot-back-end.git) lecture.
 
 ## Getting started
 
